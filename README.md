@@ -1,8 +1,10 @@
 <p align="justify"> 
   👤 <strong>About me :</strong>
     <ul>
-      <li>Hi.. I'm Mufid</li>
-      <li>I'm a student Informatics Engineering at <a href="https://home.amikom.ac.id/" target="_blank">Universitas Amikom Yogyakarta</a>.<br></li>
+      <li>Hi... I'm Mufid</li> 
+      <li>🔭 I’m currently Studying at <a href="https://home.amikom.ac.id/" target="_blank">Universitas Amikom Yogyakarta</a>.<br></li>
+	    <li>🌱 I’m currently learning MongoDB</li>
+	    <li>👯 I’m looking to collaborate on any open source projects related to PHP, Laravel, Java and Spring Boot.</li>
    </ul>
    
   ✨<strong>Areas of interest :</strong><br>
