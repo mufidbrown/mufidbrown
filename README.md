@@ -1,8 +1,8 @@
 <p align="justify"> 
   👤 <strong>About me :</strong>
     <ul>
-      <li>Hi.. I'm Mufid...</li>
-      <li>Student Informatics Engineering at <a href="https://home.amikom.ac.id/" target="_blank">Universitas Amikom Yogyakarta</a>.<br></li>
+      <li>Hi.. I'm Mufid</li>
+      <li>I'm a student Informatics Engineering at <a href="https://home.amikom.ac.id/" target="_blank">Universitas Amikom Yogyakarta</a>.<br></li>
    </ul>
    
   ✨<strong>Areas of interest :</strong><br>
