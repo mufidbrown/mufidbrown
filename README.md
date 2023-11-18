@@ -1,11 +1,22 @@
-<p align="justify"> 
-  👤 <strong>About me :</strong>
-    <ul>
-      <li>Hi... I'm Mufid</li> 
-      <li>🔭 I’m currently Studying at <a href="https://home.amikom.ac.id/" target="_blank">Universitas Amikom Yogyakarta</a>.<br></li>
-	    <li>🌱 I’m currently learning MongoDB</li>
-	    <li>👯 I’m looking to collaborate on any open source projects related to PHP, Laravel, Java and Spring Boot.</li>
-   </ul>
+<h2 align="center">Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mufid</h2>
+
+
+
+
+
+- 👨‍💻 I’m a Backend & Java Developer 
+- 🌱 I’m currently learning Docker & CI/CD.
+- 💬 Ask me about anything related to JAVA & Spiring Boot.
+- 👯 I’m looking to collaborate on  any open source projects related to JAVA and Spring Boot (Back End Dev).
+- 📫 How to reach me: Reach out to me on mufiddev@gmail.com
+- 😄 Pronouns: he/him.
+##
+
+<div align="center"> 
+  <h3>My Skills & Tools &nbsp; <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" height="24px" align="center" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h3>
+  <img aling="left" src="https://skillicons.dev/icons?i=java,spring,mysql,idea,postman,html,css,js,git" alt="My Skills"/>
+  <hr width="50%"/>
+</div>
    
   ✨<strong>Areas of interest :</strong><br>
   <ul>
